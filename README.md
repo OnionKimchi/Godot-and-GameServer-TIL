@@ -1,3 +1,4 @@
-# Godot-Learning-Log
+# Learning-Log
 고도 엔진 공부하면서 배운거 기록하는 개인 레포
+고도 엔진 뿐 아니라 닷넷 서버,닷넷 앱,n8n, comfyUI도 다룰 예정
 문서 전용
